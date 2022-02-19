@@ -32,4 +32,4 @@
 Questo progetto è rilasciato sotto licenza MIT - vedi il file [LICENSE](LICENSE) per dettagli.
 
 ## Anteprima approssimativa (homepage)
-![preview](https://github.com/tekinosman/Rws/blob/master/misc/preview.png?raw=true)
+![preview](https://raw.githubusercontent.com/tekinosman/Rws/main/misc/preview.png)
