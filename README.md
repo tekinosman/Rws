@@ -34,4 +34,4 @@
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Raw preview (homepage)
-![preview](https://github.com/tekinosman/Rws/blob/master/misc/preview.png?raw=true)
+![preview](https://raw.githubusercontent.com/tekinosman/Rws/main/misc/preview.png)
