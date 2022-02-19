@@ -1,0 +1,50 @@
+a{
+    text-decoration:0
+}
+body{
+    font-family:Arial;
+    line-height:1.5;
+    max-width:75ch; /* Based on the recommended character limit per line. */
+    margin:0 auto
+}
+body,a{
+    color:#222
+}
+footer,footer a{
+    margin:5% 1%
+}
+nav a{
+    font-weight:600
+}
+nav li{
+    display:inline; /* Same as `float:left;list-style:none`. */
+    padding:0 1% 0 0
+}
+nav ul{
+    padding:0
+}
+#login{
+    float:right
+}
+#logo a{
+    border:solid 2px;
+    border-radius:2px;
+    padding:.2% .8%;
+    margin-left:1%
+}
+.meta{
+    display:block
+}
+.meta,.actions,footer{
+    font-size:80% /* Setting it smaller to keep a good size ratio */
+}
+.meta span{
+    color:#555
+}
+.post{
+    padding:2% /* 2% is the minimum to prevent the posts from looking crowded */
+}
+.tag{
+    border:solid 1px #888; /* Setting it lighter to keep a good contrast ratio. */
+    padding:0 1%;
+    border-radius:2px
