@@ -1,3 +1,5 @@
+**[SUSPENDED] - for the time being, work on this project has been suspended to work on higher priority ones**
+
 # Rws
 
 > **Rws.** is a social platform for reading, writing and sharing thoughts as well as news.
