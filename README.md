@@ -1,7 +1,6 @@
 # Rws
 
-> **Rws.** is a social platform for reading, writing and sharing thoughts as well as news.
-> This project is in its earliest stage of development.
+**Rws** is an experimental social platform for reading, writing, and sharing thoughts and news.
 
 *Leggi questo README in [Italiano](README.it_IT.md).*
 
@@ -15,7 +14,7 @@
 
 * [async_lru](https://github.com/aio-libs/async_lru) - For async function caching
 
-## Get it running
+## Usage
 
 1. Run `git clone https://github.com/osmanjtekin/Rws.git` in your CLI.
 
