@@ -32,5 +32,5 @@
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Raw preview (homepage)
+## Preview (homepage)
 ![preview](https://raw.githubusercontent.com/tekinosman/Rws/main/misc/preview.png)
