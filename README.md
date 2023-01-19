@@ -2,8 +2,6 @@
 
 **Rws** is an experimental social platform for reading, writing, and sharing thoughts and news.
 
-*Leggi questo README in [Italiano](README.it_IT.md).*
-
 ## Prerequisites
 
 * Python 3.6+ (if not sure you can check with `python3 --version`)
