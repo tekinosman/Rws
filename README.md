@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-* Python 3.6+ (if not sure you can check with `python3 --version`)
+* Python 3.6+ (if not sure check with `python3 --version`)
 
 * [FastAPI](https://github.com/tiangolo/fastapi) - The web framework
 
@@ -18,7 +18,7 @@
 
 2. `cd` to the Rws directory.
 
-3. Run `uvicorn bootstrap:app` or `uvicorn bootstrap:app --reload` if you want to reload the server after code changes. Default host and port are `127.0.0.1` and `8000` respectively, but you can append `--host <host_address>` or `--port <port_number>` for custom values.
+3. Run `uvicorn bootstrap:app` or `uvicorn bootstrap:app --reload` to reload the server after code changes. Default host and port are `127.0.0.1` and `8000` respectively, but `--host <host_address>` or `--port <port_number>` can be appended for custom values.
 
 ## Technologies
 
